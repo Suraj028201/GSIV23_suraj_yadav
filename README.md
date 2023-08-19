@@ -18,6 +18,8 @@ The page will reload if you make edits.\
 # one thing i could have done is that when user comes back from details page, it shuld have landed on the same page from which he went to the details page
 # all the functionality is working fine, list of upcoming movie, in recent sorted release date is coming, you ca search movie by name, pagination is also working fine as well as routing.
 # deployed web link: https://64e14bee7de90c13406c4214--grand-horse-2655d9.netlify.app/
+# Website is responsive as well, since no actual design was mentioned in the assignment, i have added my own design for that(responsioveness).
+
 
 
 
